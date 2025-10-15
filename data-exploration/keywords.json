@@ -1,0 +1,140 @@
+{
+  "Healthcare Reform": [
+    "obamacare", "affordable care act", "aca", "healthcare", "health care", "insurance", "medicare", "medicaid",
+    "preexisting condition", "pre-existing", "uninsured", "hospital", "doctor", "medical", "prescription",
+    "pharmaceutical", "drug cost", "health plan", "mandate", "individual mandate", "coverage", "premium"
+  ],
+  "Immigration": [
+    "immigrant", "immigration", "border", "wall", "deportation", "deport", "ice", "mexico", "mexican",
+    "canadian", "canada", "visa", "green card", "refugee", "asylum", "illegal alien", "undocumented",
+    "migrant", "citizenship", "naturalization", "daca", "dreamer", "sanctuary city", "caravan"
+  ],
+  "Gun Control": [
+    "gun", "rifle", "firearm", "weapon", "nra", "second amendment", "shooting", "shooter", "gun control",
+    "gun rights", "massacre", "mass shooting", "background check", "columbine", "sandy hook", "assault rifle",
+    "ar-15", "ammunition", "bullet", "pistol", "handgun", "open carry", "concealed carry"
+  ],
+  "Climate Change": [
+    "global warming", "climate change", "climate", "carbon", "pollution", "greenhouse", "fossil fuel",
+    "emissions", "al gore", "inconvenient truth", "polar bear", "ice cap", "rising sea", "environmental",
+    "renewable energy", "solar", "wind power", "coal", "oil drilling", "fracking", "paris agreement",
+    "carbon footprint", "sustainability", "green energy", "recycling"
+  ],
+  "Abortion": [
+    "abortion", "roe v wade", "roe", "wade", "pro-life", "pro-choice", "planned parenthood", "fetus",
+    "unborn", "baby", "pregnancy", "terminate", "reproductive rights", "right to choose", "anti-abortion",
+    "embryo", "miscarriage", "prenatal", "ultrasound", "contraception", "birth control"
+  ],
+  "LGBTQ Rights": [
+    "gay", "lesbian", "homosexual", "transgender", "trans", "lgbt", "lgbtq", "queer", "pride",
+    "gay marriage", "same-sex marriage", "bathroom bill", "gender identity", "sexual orientation",
+    "coming out", "closet", "fabulous", "rainbow", "pride parade", "gender neutral", "pronouns",
+    "gay rights", "marriage equality", "civil union", "domestic partner"
+  ],
+  "Criminal Justice Reform": [
+    "police", "cop", "officer", "blm", "black lives matter", "defund", "prison", "jail", "incarceration",
+    "criminal justice", "reform", "brutality", "excessive force", "shooting", "protest", "riot",
+    "ferguson", "trayvon", "george floyd", "racial profiling", "stop and frisk", "body camera",
+    "qualified immunity", "sentencing", "three strikes", "mandatory minimum", "war on drugs"
+  ],
+  "Education Reform": [
+    "charter school", "student debt", "student loan", "college debt", "common core", "curriculum",
+    "education", "school choice", "voucher", "teacher union", "standardized test", "no child left behind",
+    "tuition", "university", "college", "textbook", "school board", "betsy devos", "sex education",
+    "critical race theory", "crt", "book ban", "library"
+  ],
+  "Terrorism": [
+    "9/11", "nine eleven", "september 11", "terrorist", "terrorism", "isis", "isil", "islamic state",
+    "al qaeda", "al-qaeda", "osama", "bin laden", "homeland security", "tsa", "airport security",
+    "war on terror", "extremist", "jihad", "jihadist", "radicalization", "suicide bomber", "bomb threat",
+    "anthrax", "patriot act", "guantanamo", "gitmo", "torture", "waterboarding", "drone strike"
+  ],
+  "Iraq Afghanistan Wars": [
+    "iraq", "iraqi", "afghanistan", "afghan", "saddam", "saddam hussein", "taliban", "war in iraq",
+    "war in afghanistan", "weapons of mass destruction", "wmd", "baghdad", "kabul", "troops", "soldier",
+    "veteran", "deployment", "military", "gulf war", "desert storm", "shock and awe", "surge",
+    "occupation", "insurgent", "coalition", "mission accomplished", "exit strategy"
+  ],
+  "Trade Policy": [
+    "nafta", "tariff", "trade war", "china trade", "trade deal", "globalization", "outsourcing",
+    "jobs overseas", "manufacturing", "import", "export", "trade deficit", "free trade", "protectionism",
+    "tpp", "trans-pacific", "usmca", "wto", "world trade", "dumping", "currency manipulation",
+    "intellectual property", "supply chain"
+  ],
+  "Russia": [
+    "russia", "russian", "putin", "vladimir putin", "kremlin", "moscow", "ukraine", "ukrainian",
+    "crimea", "interference", "election interference", "hacking", "meddling", "collusion", "mueller",
+    "special counsel", "oligarch", "sanctions", "cold war", "soviet", "kgb", "fsb", "spy", "agent"
+  ],
+  "Middle East Conflict": [
+    "israel", "israeli", "palestine", "palestinian", "gaza", "west bank", "jerusalem", "iran", "iranian",
+    "saudi", "saudi arabia", "yemen", "syria", "syrian", "isis", "hezbollah", "hamas", "netanyahu",
+    "ayatollah", "middle east", "settlement", "occupation", "intifada", "two-state solution", "peace process"
+  ],
+  "Income Inequality": [
+    "inequality", "income inequality", "wealth gap", "1 percent", "one percent", "billionaire", "millionaire",
+    "occupy", "occupy wall street", "99 percent", "wealth tax", "tax the rich", "fair share", "wage gap",
+    "ceo pay", "executive compensation", "working class", "middle class", "poor", "poverty", "homeless",
+    "redistribution", "trickle down", "class warfare"
+  ],
+  "Unemployment Jobs": [
+    "unemployment", "unemployed", "jobs", "job loss", "laid off", "recession", "economic crisis",
+    "financial crisis", "2008", "great recession", "wall street", "bank bailout", "stimulus",
+    "pandemic", "covid", "coronavirus", "lockdown", "automation", "robots", "ai replacing jobs",
+    "gig economy", "uber", "job market", "hiring", "employment rate"
+  ],
+  "Inflation Cost of Living": [
+    "inflation", "price increase", "cost of living", "expensive", "afford", "gas price", "fuel cost",
+    "housing cost", "rent", "mortgage", "groceries", "food price", "shortage", "supply chain",
+    "federal reserve", "interest rate", "monetary policy", "purchasing power", "dollar value"
+  ],
+  "Minimum Wage Labor": [
+    "minimum wage", "living wage", "wage", "union", "labor union", "strike", "walkout", "organize",
+    "collective bargaining", "worker rights", "overtime", "benefits", "amazon", "walmart", "fast food",
+    "service worker", "essential worker", "hazard pay", "paid leave", "sick leave", "maternity leave",
+    "gig worker", "contractor"
+  ],
+  "Race Civil Rights": [
+    "racism", "racist", "discrimination", "civil rights", "affirmative action", "systemic racism",
+    "institutional racism", "black lives matter", "blm", "protest", "mlk", "martin luther king",
+    "rosa parks", "segregation", "jim crow", "slavery", "reparations", "confederate", "statue",
+    "hate crime", "white supremacy", "kkk", "nazi", "charlottesville", "diversity", "inclusion"
+  ],
+  "Cancel Culture Free Speech": [
+    "cancel culture", "cancelled", "canceled", "free speech", "first amendment", "censorship",
+    "politically correct", "pc", "woke", "triggered", "safe space", "microaggression", "offensive",
+    "twitter mob", "social media", "deplatform", "silenced", "virtue signal", "outrage", "apology",
+    "controversy", "boycott", "banned"
+  ],
+  "Drug Policy": [
+    "war on drugs", "marijuana", "weed", "cannabis", "pot", "legalization", "decriminalization",
+    "medical marijuana", "dispensary", "opioid", "opioid crisis", "fentanyl", "overdose", "heroin",
+    "cocaine", "crack", "meth", "methamphetamine", "prescription drug", "painkiller", "oxycontin",
+    "addiction", "drug dealer", "cartel", "dea", "drug enforcement", "rehab", "treatment"
+  ],
+  "Voting Rights Election Security": [
+    "voting rights", "voter suppression", "voter id", "gerrymandering", "redistricting", "electoral college",
+    "election security", "voter fraud", "rigged election", "stolen election", "recount", "ballot",
+    "mail-in voting", "absentee", "polling place", "poll", "election day", "primary", "caucus",
+    "disenfranchise", "registration", "early voting", "drop box", "swing state", "battleground"
+  ],
+  "Technology Privacy": [
+    "nsa", "surveillance", "privacy", "data collection", "edward snowden", "wikileaks", "hacking",
+    "cyber attack", "facebook", "google", "big tech", "social media", "algorithm", "artificial intelligence",
+    "ai", "automation", "robot", "tiktok", "ban", "china tech", "huawei", "5g", "net neutrality",
+    "encryption", "metadata", "tracking", "cookies", "data breach", "identity theft"
+  ],
+  "Tax Policy": [
+    "tax", "taxes", "tax cut", "tax reform", "tax break", "loophole", "irs", "audit", "write-off",
+    "deduction", "capital gains", "corporate tax", "estate tax", "death tax", "income tax",
+    "payroll tax", "sales tax", "flat tax", "progressive tax", "regressive", "revenue", "budget",
+    "deficit", "national debt", "spending", "fiscal policy", "austerity"
+  ],
+  "Social Security Medicare": [
+    "social security", "medicare", "medicaid", "entitlement", "safety net", "welfare", "food stamps",
+    "snap", "disability", "ssi", "retirement", "pension", "senior citizen", "elderly", "aging",
+    "benefits", "trust fund", "solvency", "sustainability", "cuts", "privatization", "voucher",
+    "means testing", "cost of living adjustment", "cola"
+  ]
+}
+

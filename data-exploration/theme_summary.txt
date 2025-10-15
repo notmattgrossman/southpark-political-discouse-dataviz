@@ -1,0 +1,360 @@
+================================================================================
+SOUTH PARK POLITICAL THEME ANALYSIS - SUMMARY STATISTICS
+================================================================================
+
+TOTAL MENTIONS PER THEME (Across All Episodes)
+--------------------------------------------------------------------------------
+Immigration                             :    672 mentions
+LGBTQ Rights                            :    595 mentions
+Criminal Justice Reform                 :    504 mentions
+Abortion                                :    319 mentions
+Income Inequality                       :    296 mentions
+Technology Privacy                      :    283 mentions
+Cancel Culture Free Speech              :    274 mentions
+Healthcare Reform                       :    268 mentions
+Drug Policy                             :    198 mentions
+Iraq Afghanistan Wars                   :    193 mentions
+Gun Control                             :    189 mentions
+Race Civil Rights                       :    180 mentions
+Minimum Wage Labor                      :    150 mentions
+Terrorism                               :    133 mentions
+Unemployment Jobs                       :     98 mentions
+Inflation Cost of Living                :     94 mentions
+Tax Policy                              :     90 mentions
+Education Reform                        :     88 mentions
+Middle East Conflict                    :     82 mentions
+Russia                                  :     77 mentions
+Climate Change                          :     66 mentions
+Social Security Medicare                :     66 mentions
+Voting Rights Election Security         :     39 mentions
+Trade Policy                            :      6 mentions
+
+================================================================================
+
+TOP 5 EPISODES PER THEME
+--------------------------------------------------------------------------------
+
+Abortion:
+  S06E04 - Fun with Veal                                :   20 mentions
+  S02E05 - Conjoined Fetus Lady                         :   16 mentions
+  S04E05 - Cartman Joins NAMBLA                         :   14 mentions
+  S08E14 - Woodland Critter Christmas                   :   11 mentions
+  S05E13 - Kenny Dies                                   :   10 mentions
+
+Cancel Culture Free Speech:
+  S19E01 - Stunning and Brave                           :   35 mentions
+  S19E09 - Truth and Advertising                        :   24 mentions
+  S19E10 - PC Principal Final Justice                   :   20 mentions
+  S19E08 - Sponsored Content                            :   18 mentions
+  S19E05 - Safe Space                                   :   15 mentions
+
+Climate Change:
+  S09E08 - Two Days Before the Day After Tomorrow       :   22 mentions
+  S10E06 - ManBearPig                                   :    7 mentions
+  S08E12 - Stupid Spoiled Whore Video Playset           :    4 mentions
+  S08E07 - Goobacks                                     :    4 mentions
+  S05E05 - Terrance and Phillip: Behind the Blow        :    4 mentions
+
+Criminal Justice Reform:
+  S02E03 - Chickenlover                                 :   31 mentions
+  S07E03 - Toilet Paper                                 :   23 mentions
+  S12E07 - Super Fun Time                               :   15 mentions
+  S07E04 - I'm a Little Bit Country                     :   15 mentions
+  S04E16 - The Wacky Molestation Adventure              :   15 mentions
+
+Drug Policy:
+  S14E03 - Medicinal Fried Chicken                      :   19 mentions
+  S14E01 - Sexual Healing                               :   16 mentions
+  S06E16 - My Future Self n' Me                         :   12 mentions
+  S21E05 - Hummels & Heroin                             :   11 mentions
+  S15E05 - Crack Baby Athletic Association              :   11 mentions
+
+Education Reform:
+  S12E05 - Eek, A Penis!                                :    8 mentions
+  S05E07 - Proper Condom Use                            :    8 mentions
+  S19E05 - Safe Space                                   :    5 mentions
+  S09E02 - Die Hippie, Die                              :    4 mentions
+  S18E08 - Cock Magic                                   :    3 mentions
+
+Gun Control:
+  S19E10 - PC Principal Final Justice                   :   18 mentions
+  S12E08 - The China Probrem                            :    9 mentions
+  S17E03 - World War Zimmerman                          :    8 mentions
+  S01E02 - Weight Gain 4000                             :    8 mentions
+  S01E03 - Volcano                                      :    7 mentions
+
+Healthcare Reform:
+  S05E13 - Kenny Dies                                   :   13 mentions
+  S14E03 - Medicinal Fried Chicken                      :   12 mentions
+  S02E10 - Chickenpox                                   :   11 mentions
+  S08E01 - Good Times with Weapons                      :   10 mentions
+  S03E03 - The Succubus                                 :   10 mentions
+
+Immigration:
+  S08E09 - Something Wall-Mart This Way Comes           :   66 mentions
+  S07E15 - It's Christmas in Canada                     :   54 mentions
+  S15E09 - The Last of the Meheecans                    :   42 mentions
+  S02E01 - Terrance and Phillip in Not Without My Anus  :   41 mentions
+  S19E02 - Where My Country Gone?                       :   38 mentions
+
+Income Inequality:
+  S11E07 - Night of the Living Homeless                 :   47 mentions
+  S14E08 - Poor and Stupid                              :   23 mentions
+  S15E14 - The Poor Kid                                 :   20 mentions
+  S01E08 - Starvin' Marvin                              :   14 mentions
+  S15E12 - 1%                                           :   12 mentions
+
+Inflation Cost of Living:
+  S16E12 - A Nightmare on Face Time                     :    6 mentions
+  S19E09 - Truth and Advertising                        :    4 mentions
+  S15E13 - A History Channel Thanksgiving               :    4 mentions
+  S06E02 - Asspen                                       :    4 mentions
+  S05E12 - Here Comes the Neighborhood                  :    4 mentions
+
+Iraq Afghanistan Wars:
+  S05E09 - Osama bin Laden Has Farty Pants              :   32 mentions
+  S04E10 - Probably                                     :   21 mentions
+  S04E09 - Do the Handicapped Go to Hell?               :   19 mentions
+  S02E01 - Terrance and Phillip in Not Without My Anus  :   18 mentions
+  S06E12 - A Ladder to Heaven                           :   15 mentions
+
+LGBTQ Rights:
+  S01E04 - Big Gay Al's Big Gay Boat Ride               :   44 mentions
+  S07E08 - South Park is Gay!                           :   42 mentions
+  S19E06 - Tweek x Craig                                :   29 mentions
+  S13E05 - Fishsticks                                   :   29 mentions
+  S09E12 - Trapped in the Closet                        :   25 mentions
+
+Middle East Conflict:
+  S17E06 - Ginger Cow                                   :   14 mentions
+  S02E01 - Terrance and Phillip in Not Without My Anus  :   13 mentions
+  S19E07 - Naughty Ninjas                               :    7 mentions
+  S18E01 - Go Fund Yourself                             :    6 mentions
+  S19E08 - Sponsored Content                            :    5 mentions
+
+Minimum Wage Labor:
+  S12E04 - Canada on Strike                             :   28 mentions
+  S09E05 - The Losing Edge                              :   17 mentions
+  S16E10 - Insecurity                                   :   14 mentions
+  S06E03 - Freak Strike                                 :   13 mentions
+  S03E14 - The Red Badge of Gayness                     :    9 mentions
+
+Race Civil Rights:
+  S04E07 - Chef Goes Nanners                            :   25 mentions
+  S07E04 - I'm a Little Bit Country                     :   16 mentions
+  S04E02 - Cartman's Silly Hate Crime 2000              :   16 mentions
+  S03E14 - The Red Badge of Gayness                     :   11 mentions
+  S09E14 - Bloody Mary                                  :    9 mentions
+
+Russia:
+  S13E10 - W.T.F.                                       :   10 mentions
+  S11E04 - The Snuke                                    :    8 mentions
+  S21E04 - Franchise Prequel                            :    3 mentions
+  S17E01 - Let Go, Let Gov                              :    3 mentions
+  S15E10 - Bass to Mouth                                :    3 mentions
+
+Social Security Medicare:
+  S08E07 - Goobacks                                     :    4 mentions
+  S02E13 - Cow Days                                     :    4 mentions
+  S02E06 - The Mexican Staring Frog of Southern Sri Lanka:    4 mentions
+  S16E02 - Cash For Gold                                :    3 mentions
+  S15E14 - The Poor Kid                                 :    3 mentions
+
+Tax Policy:
+  S04E03 - Timmy 2000                                   :   10 mentions
+  S05E03 - Super Best Friends                           :    8 mentions
+  S13E03 - Margaritaville                               :    7 mentions
+  S18E06 - Freemium Isn't Free                          :    3 mentions
+  S13E09 - Butters' Bottom Bitch                        :    3 mentions
+
+Technology Privacy:
+  S08E05 - AWESOM-O                                     :   56 mentions
+  S21E04 - Franchise Prequel                            :   25 mentions
+  S14E04 - You Have 0 Friends                           :   24 mentions
+  S15E10 - Bass to Mouth                                :   22 mentions
+  S17E01 - Let Go, Let Gov                              :   19 mentions
+
+Terrorism:
+  S11E04 - The Snuke                                    :   14 mentions
+  S10E04 - Cartoon Wars Part II                         :    9 mentions
+  S19E07 - Naughty Ninjas                               :    8 mentions
+  S08E03 - The Passion of the Jew                       :    8 mentions
+  S05E09 - Osama bin Laden Has Farty Pants              :    8 mentions
+
+Trade Policy:
+  S10E09 - Mystery of the Urinal Deuce                  :    2 mentions
+  S21E09 - SUPER HARD PCness                            :    1 mentions
+  S18E03 - The Cissy                                    :    1 mentions
+  S13E07 - Fatbeard                                     :    1 mentions
+  S05E08 - Towelie                                      :    1 mentions
+
+Unemployment Jobs:
+  S08E07 - Goobacks                                     :   26 mentions
+  S21E01 - White People Renovating Houses               :   15 mentions
+  S13E03 - Margaritaville                               :    8 mentions
+  S08E05 - AWESOM-O                                     :    6 mentions
+  S18E04 - Handicar                                     :    4 mentions
+
+Voting Rights Election Security:
+  S03E11 - Chinpokomon                                  :    6 mentions
+  S20E01 - Member Berries                               :    5 mentions
+  S04E12 - Trapper Keeper                               :    5 mentions
+  S21E07 - Doubling Down                                :    3 mentions
+  S16E14 - Obama Wins!                                  :    2 mentions
+
+================================================================================
+
+SEASONAL TRENDS (Top 5 Themes Per Season)
+--------------------------------------------------------------------------------
+
+Season 1:
+  LGBTQ Rights                            :    73 mentions
+  Income Inequality                       :    24 mentions
+  Abortion                                :    22 mentions
+  Gun Control                             :    19 mentions
+  Drug Policy                             :    19 mentions
+
+Season 2:
+  Immigration                             :   102 mentions
+  Criminal Justice Reform                 :    75 mentions
+  Abortion                                :    53 mentions
+  Healthcare Reform                       :    26 mentions
+  Iraq Afghanistan Wars                   :    24 mentions
+
+Season 3:
+  LGBTQ Rights                            :    43 mentions
+  Abortion                                :    14 mentions
+  Healthcare Reform                       :    14 mentions
+  Race Civil Rights                       :    12 mentions
+  Gun Control                             :    12 mentions
+
+Season 4:
+  Criminal Justice Reform                 :    49 mentions
+  Race Civil Rights                       :    45 mentions
+  Iraq Afghanistan Wars                   :    40 mentions
+  Abortion                                :    29 mentions
+  Income Inequality                       :    26 mentions
+
+Season 5:
+  LGBTQ Rights                            :    37 mentions
+  Iraq Afghanistan Wars                   :    37 mentions
+  Abortion                                :    27 mentions
+  Immigration                             :    22 mentions
+  Healthcare Reform                       :    22 mentions
+
+Season 6:
+  LGBTQ Rights                            :    44 mentions
+  Abortion                                :    35 mentions
+  Immigration                             :    29 mentions
+  Iraq Afghanistan Wars                   :    25 mentions
+  Criminal Justice Reform                 :    24 mentions
+
+Season 7:
+  Immigration                             :    68 mentions
+  Criminal Justice Reform                 :    64 mentions
+  LGBTQ Rights                            :    59 mentions
+  Abortion                                :    25 mentions
+  Race Civil Rights                       :    21 mentions
+
+Season 8:
+  Immigration                             :    84 mentions
+  Technology Privacy                      :    58 mentions
+  Unemployment Jobs                       :    36 mentions
+  Criminal Justice Reform                 :    30 mentions
+  Healthcare Reform                       :    25 mentions
+
+Season 9:
+  LGBTQ Rights                            :    45 mentions
+  Healthcare Reform                       :    25 mentions
+  Climate Change                          :    23 mentions
+  Criminal Justice Reform                 :    19 mentions
+  Minimum Wage Labor                      :    19 mentions
+
+Season 10:
+  Immigration                             :    16 mentions
+  LGBTQ Rights                            :    15 mentions
+  Terrorism                               :    15 mentions
+  Cancel Culture Free Speech              :    13 mentions
+  Gun Control                             :    11 mentions
+
+Season 11:
+  Income Inequality                       :    52 mentions
+  LGBTQ Rights                            :    26 mentions
+  Terrorism                               :    26 mentions
+  Russia                                  :    13 mentions
+  Iraq Afghanistan Wars                   :    10 mentions
+
+Season 12:
+  Immigration                             :    49 mentions
+  Criminal Justice Reform                 :    37 mentions
+  Minimum Wage Labor                      :    30 mentions
+  Gun Control                             :    15 mentions
+  Abortion                                :    14 mentions
+
+Season 13:
+  LGBTQ Rights                            :    60 mentions
+  Immigration                             :    28 mentions
+  Criminal Justice Reform                 :    25 mentions
+  Abortion                                :    22 mentions
+  Healthcare Reform                       :    20 mentions
+
+Season 14:
+  Drug Policy                             :    44 mentions
+  Income Inequality                       :    29 mentions
+  Technology Privacy                      :    28 mentions
+  Healthcare Reform                       :    20 mentions
+  LGBTQ Rights                            :    19 mentions
+
+Season 15:
+  Immigration                             :    66 mentions
+  Income Inequality                       :    38 mentions
+  Technology Privacy                      :    27 mentions
+  Drug Policy                             :    24 mentions
+  Criminal Justice Reform                 :    22 mentions
+
+Season 16:
+  Minimum Wage Labor                      :    18 mentions
+  Inflation Cost of Living                :    13 mentions
+  Criminal Justice Reform                 :    13 mentions
+  LGBTQ Rights                            :    11 mentions
+  Healthcare Reform                       :    10 mentions
+
+Season 17:
+  Technology Privacy                      :    22 mentions
+  Middle East Conflict                    :    17 mentions
+  Immigration                             :    15 mentions
+  Criminal Justice Reform                 :    10 mentions
+  Gun Control                             :    10 mentions
+
+Season 18:
+  Immigration                             :    34 mentions
+  Criminal Justice Reform                 :    24 mentions
+  LGBTQ Rights                            :    18 mentions
+  Cancel Culture Free Speech              :     9 mentions
+  Technology Privacy                      :     9 mentions
+
+Season 19:
+  Cancel Culture Free Speech              :   121 mentions
+  LGBTQ Rights                            :    55 mentions
+  Immigration                             :    55 mentions
+  Gun Control                             :    25 mentions
+  Criminal Justice Reform                 :    22 mentions
+
+Season 20:
+  Technology Privacy                      :    28 mentions
+  Cancel Culture Free Speech              :    26 mentions
+  Terrorism                               :     9 mentions
+  Abortion                                :     9 mentions
+  Criminal Justice Reform                 :     8 mentions
+
+Season 21:
+  Technology Privacy                      :    34 mentions
+  Immigration                             :    25 mentions
+  Drug Policy                             :    22 mentions
+  Criminal Justice Reform                 :    17 mentions
+  Race Civil Rights                       :    17 mentions
+
+================================================================================
+Total unique episodes analyzed: 285
+Total themes tracked: 24
+================================================================================
