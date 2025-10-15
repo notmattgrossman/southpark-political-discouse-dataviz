@@ -1,13 +1,32 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    margin: 0;
+    padding: 40px;
+    background-color: #F0EEE6;
+    max-width: 1200px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+p {
+    color: #333;
+    margin: 1em 0;
+}
+
 .sketch-container {
     display: flex;
     gap: 20px;
     width: 100%;
     margin: 20px 0;
 }
+
 .sketch-container img {
     flex: 1;
     width: 50%;
     height: auto;
     object-fit: contain;
 }
-

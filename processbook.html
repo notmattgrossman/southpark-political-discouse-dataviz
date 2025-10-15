@@ -3,14 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Process Book - South Park Political Themes</title>
+    <link rel="icon" type="image/png" href="img/KennyMcCormick.png">
     <link rel="stylesheet" href="css/process.css">
 </head>
 <body>
     <h1>Matt Grossman Assignment 3: Process Book</h1>
+    <h2>CSE 4507: Data Visualization</h2>
     <h2>Questions</h2>
         <h3>What do you want to achieve with the visualization?</h3>
-        <p>What are the political themes du jour? What are the most important political topics of any given year? In its 21 seasons, South Park has become one of the cornerstones of American political satire. In the almost 30 years it has run, it has satirized all of the most pressing political issues relevant today: immigration, abortion, LGBTQ+ rights, terrorism, and more. I want users to be able to explore the trends in political themes throughout the history of South Park. By having this data in a time-series, we will be able to track the trends of these themes across the years and hopefully be able to see spikes of certain themes that relate to real world events (terrorism spiking in 2001-2002, for example).</p>
+        <p>What are the political themes du jour? What themes dominate the political discourse of any given time in the United States? In its first 21 seasons (1997-2017), South Park has become one of the cornerstones of American politics. It has satirized all of the most pressing political issues relevant today: immigration, abortion, LGBTQ+ rights, terrorism, healthcare and more. I want users to be able to explore the theme trends in political discourse by investigating how those themes showed up in South Park’s satire. By organizing this data as a time series, we can visualize how these themes evolve over the years and identify spikes that correspond to real-world events — for instance, an increase in terrorism-related themes around 2001–2002.</p>
         <h3>What tasks do you want to support?</h3>
         <p>This interactive visualization will support humanities researchers in departments like Political Science, American Culture Studies, or Sociology. Political satire is an important way to understand the cultural and political zeitgeist of any given period and data stories like these will be important for understanding our current political moment. 
         </p>
@@ -21,8 +23,10 @@
         <img src="img/sketch-1.jpg" alt="Sketches">
         <img src="img/sketch-2.png" alt="Sketches">
     </div>
-    <h2>Final Justification</h2>
-    <p>Justification will go here.</p>
+    <h2>Final Visualization Justification</h2>
+    <p>I began this project with exploratory data analysis (documented in data_wrangling.ipnyb) to see how I could process and visualize the data to answer my initial questions. I used a bank of keywords associated with 24 predefined political themes to make counts of when each theme was mentioned across 289 episodes of South Park. From there, I visualized those findings and saw that StreamGraph was a good candidate for answering my initial question.</p>
+    <p>In the interactive version of this visualization, users can pan over the StreamGraph to see a tooltip of what theme that area corresponds to as well as highlighting that theme on the legend. </p>
+    <p>I think this final design is effective in answering my core question: What themes dominate the political discourse of any given time in the United States? From this visualization, we can see some interesting trends. The most noticeable are the prominence of the Iraq/Afghanistan War in the period following 9/11; the growth in prominence of economic topics (especially income inequality) during the 2008/2009 financial crisis; and a spike in mentions of LGBTQ+ topics in 2015 when gay marriage was legalized in the US. </p>
+    <p>The most interesting finding is the 2015-2016 spike in mentions of the Cancel Culture/Free Speech during Donald Trump's first presidential campaign. While the dataset cuts off in 2017, it foreshadows the shows future political satire poking fun at Trump and I am curious what this visualization would show if we had data that ran through 2025.</p>
 </body>
 </html>
-
