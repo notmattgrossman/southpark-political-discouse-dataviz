@@ -1,13 +1,3 @@
-/**
- * South Park Political Themes - Categorized Theme River Visualization
- * Uses D3.js v7 with proper margin convention and streamgraph layout
- * Fully responsive to window resize
- */
-
-// ============================================================================
-// CONFIGURATION AND CONSTANTS
-// ============================================================================
-
 // Global data storage
 let globalData = null;
 
@@ -19,13 +9,12 @@ function getResponsiveDimensions() {
   // Responsive margins
   const margin = {
     top: containerWidth < 768 ? 80 : 100,
-    right: containerWidth <= 1000 ? 40 : 280, // Less right margin when legend is below
-    bottom: containerWidth <= 1000 ? (containerWidth <= 800 ? 450 : 300) : (containerWidth < 768 ? 50 : 60), // More bottom margin for legend below; extra for 2-column layout
-    left: containerWidth < 768 ? 70 : 60 // Extra left margin at small screens for Y-axis label
+    right: containerWidth <= 1000 ? 40 : 280,
+    bottom: containerWidth <= 1000 ? (containerWidth <= 800 ? 450 : 300) : (containerWidth < 768 ? 50 : 60), 
+    left: containerWidth < 768 ? 70 : 60 
   };
   
-  const width = containerWidth - margin.left - margin.right - 40; // 40 for padding
-  // Ensure height is sufficient for the full legend (needs ~800px minimum with spacing)
+  const width = containerWidth - margin.left - margin.right - 40;
   const height = Math.max(800, Math.min(containerHeight, 1100)) - margin.top - margin.bottom;
   
   return { margin, width, height };
@@ -91,25 +80,6 @@ const colorSchemes = {
   Purples: t => d3.interpolatePuRd(0.35 + t * 0.5)
 };
 
-// ============================================================================
-// UTILITY FUNCTIONS
-// ============================================================================
-
-/**
- * Debounce function to limit resize event firing
- */
-function debounce(func, wait) {
-  let timeout;
-  return function executedFunction(...args) {
-    const later = () => {
-      clearTimeout(timeout);
-      func(...args);
-    };
-    clearTimeout(timeout);
-    timeout = setTimeout(later, wait);
-  };
-}
-
 /**
  * Creates a color mapping for all themes based on their categories
  */
@@ -157,10 +127,6 @@ function aggregateData(rawData) {
 function getOrderedThemes() {
   return Object.values(themeCategories).flatMap(cat => cat.themes);
 }
-
-// ============================================================================
-// CHART CREATION
-// ============================================================================
 
 /**
  * Creates the main SVG container with margin convention
@@ -557,7 +523,7 @@ function createStreamgraph(g, data, xScale, colorMap, tooltip, width, height) {
     .y1(d => yScale(d[1]))
     .curve(d3.curveBasis);
   
-  // Helper function to sanitize theme names
+  // Helper function to clean theme names
   const sanitizeThemeName = (theme) => theme.replace(/\s+/g, '-').replace(/\//g, '-');
   
   // Create paths for each theme
@@ -617,12 +583,8 @@ function createStreamgraph(g, data, xScale, colorMap, tooltip, width, height) {
   return { paths, yScale };
 }
 
-// ============================================================================
-// MAIN RENDER AND INITIALIZATION
-// ============================================================================
-
 /**
- * Renders the complete visualization
+ * Renders visualization
  */
 function render(data) {
   if (!data) return;
@@ -662,50 +624,29 @@ function render(data) {
   // Create legend
   createLegend(g, colorMap, width, height);
   
-  console.log('Visualization rendered at', width, 'x', height);
 }
 
 /**
- * Main function to initialize and render the visualization
+ * Main function
  */
 async function init() {
-  try {
-    // Load data
-    const rawData = await d3.csv('data/theme_timeseries_with_year.csv', d => ({
-      season: +d.season,
-      episode_number: +d.episode_number,
-      episode_name: d.episode_name,
-      episode_order: +d.episode_order,
-      year: +d.year,
-      theme: d.theme,
-      count: +d.count
-    }));
-    
-    console.log('Data loaded:', rawData.length, 'rows');
-    
-    // Process data
-    globalData = aggregateData(rawData);
-    console.log('Aggregated data:', globalData.length, 'years');
-    
-    // Initial render
+  const rawData = await d3.csv('data/theme_timeseries_with_year.csv', d => ({
+    season: +d.season,
+    episode_number: +d.episode_number,
+    episode_name: d.episode_name,
+    episode_order: +d.episode_order,
+    year: +d.year,
+    theme: d.theme,
+    count: +d.count
+  }));
+  
+  globalData = aggregateData(rawData);
+  
+  render(globalData);
+  
+  window.addEventListener('resize', () => {
     render(globalData);
-    
-    // Add resize listener with debouncing
-    window.addEventListener('resize', debounce(() => {
-      console.log('Window resized, re-rendering...');
-      render(globalData);
-    }, 250));
-    
-    console.log('Visualization initialized successfully!');
-    
-  } catch (error) {
-    console.error('Error initializing visualization:', error);
-    d3.select('#viz')
-      .append('div')
-      .style('color', 'red')
-      .style('padding', '20px')
-      .text(`Error loading visualization: ${error.message}`);
-  }
+  });
 }
 
 // Initialize when DOM is ready

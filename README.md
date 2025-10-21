@@ -4,4 +4,4 @@ This interactive data visualization explores the evolution of political discours
 
 # Collaboration
 
-I used outside sources for this project, mainly Cursor IDE's Agent with claude-4.5-sonnet.
+I used Anthropic's Generative AI model claude-4.5-haiku to help with JavaScript and d3 syntax. The ideas for the visualization, concept, and story are completely mine.
